@@ -1,5 +1,5 @@
 # Network Anomaly Detection With Temporal Convolutional Network and U-Net Model
-This is code reproduced according to the description in the paper "[Network Anomaly Detection With Temporal Convolutional Network and U-Net Model](https://arxiv.org/pdf/1805.03409.pdf)".    
+This is code reproduced according to the description in the paper "[Network Anomaly Detection With Temporal Convolutional Network and U-Net Model](https://ieeexplore.ieee.org/document/9583228)".    
 
 Using 1D TCN and 1D U-Net.
 ## Dependencies

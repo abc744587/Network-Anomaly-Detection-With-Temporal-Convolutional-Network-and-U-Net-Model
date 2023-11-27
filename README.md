@@ -32,5 +32,7 @@ pip install -r requirements.txt
 python3 U-Net.py
 ```
 
+3. I wrote the training and testing together. Once the program is completed, each Average (`marco`, `mirco`, `weighted`) will be obtained, and the Score Report of each category will also be obtained. In addition, although the paper does not mention which indicator is used to calculate the Average, based on the experimental results, I guess that `Weighted` is used to calculate the Average.
+
 ## Reference
 Mezina A, Burget R, Travieso-González CM. Network Anomaly Detection With Temporal Convolutional Network and U-Net Model. In: IEEE Access (Volume:9).
